@@ -10,7 +10,7 @@ Simple application that given a number of rupiahs will calculate the minimum num
 </ul>
 
 # How to run application?
-This application was built using `ReactJS`. To run this application, you need to install `npm` on your computer.
+This application was built using `ReactJS` with `Redux`. To run this application, you need to install `npm` on your computer.
 <p>
   <b>Demo Link: </b> <a href="https://florenciamonika.github.io/fractions/" target="_blank">https://florenciamonika.github.io/fractions/</a>
 </p>
